@@ -1,0 +1,23 @@
+::: Comandos :::
+head: apenas algumas linhas do arquivo
+clear: limpa
+tail: apenas algumas linhas do fim do arquivo
+less: ajuda pra navegar no arquivo
+echo: criar arquivos
+vi: edita algum arquivo
+:w: salva
+:q: sai do arquivo quit
+i: insere no caracter atual
+a: insere no caracter posterior
+x: deleta o caracter
+:q!: não salva alterações
+:/: procura uma palavra
+:/m: vai pra proxima palavra
+
+::: Adicionais de comandos :::
+-n: qntidade de linhas
+
+::: Caracteres especiais :::
+>>: concatena
+*: all
+:: abre o comando
